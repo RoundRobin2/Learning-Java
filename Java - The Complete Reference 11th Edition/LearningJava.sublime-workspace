@@ -1,0 +1,645 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"for",
+				"for\tfor"
+			],
+			[
+				"fore",
+				"fore\tfor (each)"
+			],
+			[
+				"Fore",
+				"ForEach\t  Class"
+			],
+			[
+				"main",
+				"main\tmethod (main)"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/home/robin/TEMP/Books/Java: The Complete Reference 11th Edition/Chapter 5: Control Statements/ForEach/NoChange.java",
+			"settings":
+			{
+				"buffer_size": 484,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Chapter 5: Control Statements/ForEach/NoChange.java",
+			"settings":
+			{
+				"buffer_size": 482,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/User/MyJavaC.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Java/Ant.sublime-build",
+					""
+				],
+				[
+					"Packages/Java/JavaC.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Java/JavaC.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Java/Ant.sublime-build",
+					""
+				],
+				[
+					"Packages/Java/JavaC.sublime-build",
+					""
+				],
+				[
+					"Packages/User/MyJavaC.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/MyJavaC.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"cool",
+				"CoolFormat: Formatter Settings"
+			],
+			[
+				"L",
+				"LSP: Enable Language Server Globally"
+			],
+			[
+				"LSP",
+				"Preferences: LSP Settings"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"terminus: o",
+				"Terminus: Open Default Shell in View"
+			],
+			[
+				"term",
+				"Terminal: Open"
+			],
+			[
+				"glu",
+				"Glue - Launch"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control:in",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 232.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/robin/Documents/Learning Java/Books/Java: The Complete Reference 11th Edition",
+		"/home/robin/Documents/Learning Java/Books/Java: The Complete Reference 11th Edition/Chapter 5: Control Statements",
+		"/home/robin/Documents/Learning Java/Books/Java: The Complete Reference 11th Edition/Chapter 5: Control Statements/DoWhile",
+		"/home/robin/Documents/Learning Java/Books/Java: The Complete Reference 11th Edition/Chapter 5: Control Statements/For",
+		"/home/robin/Documents/Learning Java/Books/Java: The Complete Reference 11th Edition/Chapter 5: Control Statements/ForEach",
+		"/home/robin/Documents/Learning Java/Books/Java: The Complete Reference 11th Edition/workspace"
+	],
+	"file_history":
+	[
+		"/home/robin/Documents/Learning Java/Books/Java: The Complete Reference 11th Edition/Chapter 5: Control Statements/For/ForTick.java",
+		"/home/robin/Documents/Learning Java/Books/Java: The Complete Reference 11th Edition/Chapter 5: Control Statements/For/FindPrime.java",
+		"/home/robin/Documents/Learning Java/Books/Java: The Complete Reference 11th Edition/Chapter 5: Control Statements/For/Sample.java",
+		"/home/robin/Documents/Learning Java/Books/Java: The Complete Reference 11th Edition/Chapter 5: Control Statements/ForEach/NoChange.java",
+		"/home/robin/Documents/Learning Java/Books/Java: The Complete Reference 11th Edition/Chapter 5: Control Statements/ForEach/ForEach3.java",
+		"/home/robin/Documents/Learning Java/Books/Java: The Complete Reference 11th Edition/Chapter 5: Control Statements/For/Comma.java",
+		"/home/robin/Documents/Learning Java/Books/Java: The Complete Reference 11th Edition/Chapter 5: Control Statements/For/ForVar.java",
+		"/home/robin/Documents/Learning Java/Books/Java: The Complete Reference 11th Edition/Chapter 5: Control Statements/ForEach/ForEach.java",
+		"/home/robin/Documents/Learning Java/Books/Java: The Complete Reference 11th Edition/Chapter 5: Control Statements/ForEach/ForEach2.java",
+		"/home/robin/Documents/Learning Java/Books/Java: The Complete Reference 11th Edition/Chapter 5: Control Statements/while/While.java",
+		"/home/robin/Documents/Learning Java/Books/Java: The Complete Reference 11th Edition/Chapter 5: Control Statements/while/NoBody.java",
+		"/home/robin/Documents/Learning Java/Books/Java: The Complete Reference 11th Edition/Chapter 5: Control Statements/DoWhile/DoWhile.java",
+		"/home/robin/Documents/Learning Java/Books/Java: The Complete Reference 11th Edition/Chapter 5: Control Statements/DoWhile/Menu.java",
+		"/home/robin/.config/sublime-text-3/Packages/CoolFormat/CoolFormatLib/CoolFormatConfig.cfconfig",
+		"/home/robin/Documents/Learning Java/Books/Java: The Complete Reference 11th Edition/Chapter 5: Control Statements/Switch/Switch.java",
+		"/home/robin/Documents/Learning Java/Books/Java: The Complete Reference 11th Edition/Chapter 5: Control Statements/Switch/MissingBreak.java",
+		"/home/robin/Documents/Learning Java/Books/Java: The Complete Reference 11th Edition/Chapter 5: Control Statements/Switch/StringSwitch.java",
+		"/home/robin/Documents/Learning Java/Books/Java: The Complete Reference 11th Edition/Chapter 4: Operators/Ternary/Ternary.java",
+		"/home/robin/.config/sublime-text-3/Packages/User/MyJavaC.sublime-build",
+		"/home/robin/Documents/Learning Java/Books/Java: The Complete Reference 11th Edition/LearningJava.sublime-project",
+		"/home/robin/.config/sublime-text-3/Packages/User/Glue.sublime-settings",
+		"/home/robin/.config/sublime-text-3/Packages/Glue/Glue.sublime-settings",
+		"/home/robin/Documents/Learning Java/Books/Java: The Complete Reference 11th Edition/terminal.glue",
+		"/home/robin/Documents/Learning Java/Books/Java: The Complete Reference 11th Edition/Chapter 4: Operators/Bitwise/BitLogic.java",
+		"/home/robin/.config/sublime-text-3/Packages/Javascript Beautify/JavascriptBeautify.sublime-settings",
+		"/home/robin/.config/sublime-text-3/Packages/User/JavascriptBeautify.sublime-settings",
+		"/home/robin/repos/rtl-5-6-4-1/hal/rtl8814a/usb/rtl8814au_xmit.c"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/home/robin/TEMP/Books/Java: The Complete Reference 11th Edition/Chapter 5: Control Statements/ForEach/NoChange.java",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 484,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								90,
+								90
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"lsp_active": true,
+							"lsp_language":
+							{
+								"jdtls": "java"
+							},
+							"show_definitions": false,
+							"syntax": "Packages/Java/Java.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Chapter 5: Control Statements/ForEach/NoChange.java",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 482,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								209,
+								209
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										479,
+										480
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"region.purplish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										162,
+										163
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"lsp_active": true,
+							"lsp_language":
+							{
+								"jdtls": "java"
+							},
+							"show_definitions": false,
+							"syntax": "Packages/Java/Java.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 71.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 104.0
+	},
+	"output.diagnostics":
+	{
+		"height": 174.0
+	},
+	"output.exec":
+	{
+		"height": 193.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/MyJavaC.sublime-build",
+	"project": "LearningJava.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

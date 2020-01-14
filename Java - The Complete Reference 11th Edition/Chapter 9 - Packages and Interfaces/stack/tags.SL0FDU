@@ -1,0 +1,24 @@
+warn	gradlew	/^warn () {$/;"	f
+die	gradlew	/^die () {$/;"	f
+save	gradlew	/^save () {$/;"	f
+DIRNAME	gradlew.bat	/^set DIRNAME=%~dp0$/;"	v
+DIRNAME	gradlew.bat	/^if "%DIRNAME%" == "" set DIRNAME=.$/;"	v
+APP_BASE_NAME	gradlew.bat	/^set APP_BASE_NAME=%~n0$/;"	v
+APP_HOME	gradlew.bat	/^set APP_HOME=%DIRNAME%$/;"	v
+DEFAULT_JVM_OPTS	gradlew.bat	/^set DEFAULT_JVM_OPTS="-Xmx64m" "-Xms64m"$/;"	v
+JAVA_EXE	gradlew.bat	/^set JAVA_EXE=java.exe$/;"	v
+findJavaFromJavaHome	gradlew.bat	/^:findJavaFromJavaHome$/;"	l
+JAVA_HOME	gradlew.bat	/^set JAVA_HOME=%JAVA_HOME:"=%$/;"	v
+JAVA_EXE	gradlew.bat	/^set JAVA_EXE=%JAVA_HOME%\/bin\/java.exe$/;"	v
+init	gradlew.bat	/^:init$/;"	l
+win9xME_args	gradlew.bat	/^:win9xME_args$/;"	l
+CMD_LINE_ARGS	gradlew.bat	/^set CMD_LINE_ARGS=$/;"	v
+_SKIP	gradlew.bat	/^set _SKIP=2$/;"	v
+win9xME_args_slurp	gradlew.bat	/^:win9xME_args_slurp$/;"	l
+CMD_LINE_ARGS	gradlew.bat	/^set CMD_LINE_ARGS=%*$/;"	v
+execute	gradlew.bat	/^:execute$/;"	l
+CLASSPATH	gradlew.bat	/^set CLASSPATH=%APP_HOME%\\gradle\\wrapper\\gradle-wrapper.jar$/;"	v
+end	gradlew.bat	/^:end$/;"	l
+fail	gradlew.bat	/^:fail$/;"	l
+mainEnd	gradlew.bat	/^:mainEnd$/;"	l
+omega	gradlew.bat	/^:omega$/;"	l

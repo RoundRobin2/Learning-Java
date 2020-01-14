@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fc334c6b-90b8-41d7-81f7-89601792255f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="ProjectId" id="1W42IswivWfrS2yLLLpL1bUwtdD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="gradle  build" />
+      <command value="gradle run" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Gradle.deadlock [run]">
+    <configuration name="deadlock [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="deadlock [run]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="run" />
+          </list>
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.deadlock [run]" />
+        <item itemvalue="Gradle.deadlock [build]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fc334c6b-90b8-41d7-81f7-89601792255f" name="Default Changelist" comment="" />
+      <created>1578394470086</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578394470086</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="661" y="357" width="588" height="398" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1578394918411">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="661" y="357" width="588" height="398" key="#com.intellij.fileTypes.FileTypeChooser/0.27.1920.1053/1920.0.2560.1440@0.27.1920.1053" timestamp="1578394918411" />
+    <state x="693" y="301" width="524" height="510" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1578394534761">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="693" y="301" width="524" height="510" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.27.1920.1053/1920.0.2560.1440@0.27.1920.1053" timestamp="1578394534761" />
+    <state width="914" height="275" key="GridCell.Tab.0.bottom" timestamp="1578396174500">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="914" height="275" key="GridCell.Tab.0.bottom/0.27.1920.1053/1920.0.2560.1440@0.27.1920.1053" timestamp="1578396174500" />
+    <state width="914" height="275" key="GridCell.Tab.0.center" timestamp="1578396174500">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="914" height="275" key="GridCell.Tab.0.center/0.27.1920.1053/1920.0.2560.1440@0.27.1920.1053" timestamp="1578396174500" />
+    <state width="914" height="275" key="GridCell.Tab.0.left" timestamp="1578396174500">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="914" height="275" key="GridCell.Tab.0.left/0.27.1920.1053/1920.0.2560.1440@0.27.1920.1053" timestamp="1578396174500" />
+    <state width="914" height="275" key="GridCell.Tab.0.right" timestamp="1578396174500">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="914" height="275" key="GridCell.Tab.0.right/0.27.1920.1053/1920.0.2560.1440@0.27.1920.1053" timestamp="1578396174500" />
+    <state x="577" y="278" width="1022" height="737" key="SettingsEditor" timestamp="1578395793996">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="577" y="278" width="1022" height="737" key="SettingsEditor/0.27.1920.1053/1920.0.2560.1440@0.27.1920.1053" timestamp="1578395793996" />
+    <state x="620" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1578394885936">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="620" y="380" key="com.intellij.ide.util.TipDialog/0.27.1920.1053/1920.0.2560.1440@0.27.1920.1053" timestamp="1578394885936" />
+    <state x="563" y="145" width="1347" height="824" key="new project wizard" timestamp="1578396172225">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="563" y="145" width="1347" height="824" key="new project wizard/0.27.1920.1053/1920.0.2560.1440@0.27.1920.1053" timestamp="1578396172225" />
+    <state x="1104" y="252" width="672" height="677" key="run.anything.popup" timestamp="1578396010162">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="1104" y="252" width="672" height="677" key="run.anything.popup/0.27.1920.1053/1920.0.2560.1440@0.27.1920.1053" timestamp="1578396010162" />
+  </component>
+</project>

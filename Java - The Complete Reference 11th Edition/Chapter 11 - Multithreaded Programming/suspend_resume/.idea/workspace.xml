@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4af3ccd6-09da-476b-b407-e9003fff61c8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="suspend_resume" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1W45kw6PpbSyaqjeUmksqnOVqXa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="gradle build" />
+      <command value="gradle run" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.SuspendResume">
+    <configuration name="SuspendResume" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SuspendResume" />
+      <module name="suspend_resume.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="suspend_resume [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="suspend_resume [run]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="run" />
+          </list>
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SuspendResume" />
+        <item itemvalue="Gradle.suspend_resume [build]" />
+        <item itemvalue="Gradle.suspend_resume [run]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4af3ccd6-09da-476b-b407-e9003fff61c8" name="Default Changelist" comment="" />
+      <created>1578396172480</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578396172480</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="418" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578397403366">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="418" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1920.1053/1920.0.2560.1440@0.27.1920.1053" timestamp="1578397403366" />
+    <state x="743" y="314" width="424" height="491" key="FileChooserDialogImpl" timestamp="1578397550274">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="743" y="314" width="424" height="491" key="FileChooserDialogImpl/0.27.1920.1053/1920.0.2560.1440@0.27.1920.1053" timestamp="1578397550274" />
+    <state width="914" height="275" key="GridCell.Tab.0.bottom" timestamp="1578398219551">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="914" height="275" key="GridCell.Tab.0.bottom/0.27.1920.1053/1920.0.2560.1440@0.27.1920.1053" timestamp="1578398219551" />
+    <state width="914" height="275" key="GridCell.Tab.0.center" timestamp="1578398219551">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="914" height="275" key="GridCell.Tab.0.center/0.27.1920.1053/1920.0.2560.1440@0.27.1920.1053" timestamp="1578398219551" />
+    <state width="914" height="275" key="GridCell.Tab.0.left" timestamp="1578398219551">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="914" height="275" key="GridCell.Tab.0.left/0.27.1920.1053/1920.0.2560.1440@0.27.1920.1053" timestamp="1578398219551" />
+    <state width="914" height="275" key="GridCell.Tab.0.right" timestamp="1578398219551">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="914" height="275" key="GridCell.Tab.0.right/0.27.1920.1053/1920.0.2560.1440@0.27.1920.1053" timestamp="1578398219551" />
+    <state x="449" y="188" width="1022" height="737" key="SettingsEditor" timestamp="1578397746600">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="449" y="188" width="1022" height="737" key="SettingsEditor/0.27.1920.1053/1920.0.2560.1440@0.27.1920.1053" timestamp="1578397746600" />
+    <state x="1095" y="381" key="com.intellij.ide.util.TipDialog" timestamp="1578410881049">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="1095" y="381" key="com.intellij.ide.util.TipDialog/0.27.1920.1053/1920.0.2560.1440@0.27.1920.1053" timestamp="1578410881049" />
+    <state x="499" y="107" width="1347" height="842" key="new project wizard" timestamp="1578413791931">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="499" y="107" width="1347" height="842" key="new project wizard/0.27.1920.1053/1920.0.2560.1440@0.27.1920.1053" timestamp="1578413791931" />
+    <state x="1104" y="252" width="672" height="677" key="run.anything.popup" timestamp="1578397138124">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="1104" y="252" width="672" height="677" key="run.anything.popup/0.27.1920.1053/1920.0.2560.1440@0.27.1920.1053" timestamp="1578397138124" />
+  </component>
+</project>

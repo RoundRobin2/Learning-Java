@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f72cafb4-85f3-4ac3-9434-a31a9e964ade" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1W4urjEmQV5j6Lei0swPyuDrAI8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Wrap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Wrap" />
+      <module name="Wrap" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Wrap" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f72cafb4-85f3-4ac3-9434-a31a9e964ade" name="Default Changelist" comment="" />
+      <created>1578421388848</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578421388848</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1192" y="314" width="424" height="491" key="FileChooserDialogImpl" timestamp="1578421669636">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="1192" y="314" width="424" height="491" key="FileChooserDialogImpl/0.27.1920.1053/1920.0.2560.1440@0.27.1920.1053" timestamp="1578421669636" />
+    <state width="884" height="275" key="GridCell.Tab.0.bottom" timestamp="1578421805444">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="884" height="275" key="GridCell.Tab.0.bottom/0.27.1920.1053/1920.0.2560.1440@0.27.1920.1053" timestamp="1578421805444" />
+    <state width="884" height="275" key="GridCell.Tab.0.center" timestamp="1578421805444">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="884" height="275" key="GridCell.Tab.0.center/0.27.1920.1053/1920.0.2560.1440@0.27.1920.1053" timestamp="1578421805444" />
+    <state width="884" height="275" key="GridCell.Tab.0.left" timestamp="1578421805443">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="884" height="275" key="GridCell.Tab.0.left/0.27.1920.1053/1920.0.2560.1440@0.27.1920.1053" timestamp="1578421805443" />
+    <state width="884" height="275" key="GridCell.Tab.0.right" timestamp="1578421805444">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="884" height="275" key="GridCell.Tab.0.right/0.27.1920.1053/1920.0.2560.1440@0.27.1920.1053" timestamp="1578421805444" />
+    <state x="898" y="188" width="1022" height="737" key="SettingsEditor" timestamp="1578421711476">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="898" y="188" width="1022" height="737" key="SettingsEditor/0.27.1920.1053/1920.0.2560.1440@0.27.1920.1053" timestamp="1578421711476" />
+    <state x="1085" y="381" key="com.intellij.ide.util.TipDialog" timestamp="1578421541024">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="1085" y="381" key="com.intellij.ide.util.TipDialog/0.27.1920.1053/1920.0.2560.1440@0.27.1920.1053" timestamp="1578421541024" />
+    <state x="563" y="145" width="1347" height="824" key="new project wizard" timestamp="1578421804002">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="563" y="145" width="1347" height="824" key="new project wizard/0.27.1920.1053/1920.0.2560.1440@0.27.1920.1053" timestamp="1578421804002" />
+  </component>
+</project>
