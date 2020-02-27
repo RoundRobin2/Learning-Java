@@ -1,5 +1,5 @@
 // Some simple math functions.
-package appsupport.supportfuncs;
+package appfuncs.simplefuncs;
 import appsupport.supportfuncs.SupportFuncs;
 
 public class SimpleMathFuncs {

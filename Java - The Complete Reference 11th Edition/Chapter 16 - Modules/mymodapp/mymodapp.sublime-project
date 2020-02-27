@@ -1,0 +1,17 @@
+{
+	"folders":
+	[
+		{
+			"path": "."
+		}
+	],
+	"settings":
+	{
+		"SublimeLinter.linters.javac.lint": "all",
+		"SublimeLinter.linters.javac.args": [
+			"-encoding", "UTF8",
+			"-d", "appmodules",
+			"-module-source-path", "appsrc appsrc/userfuncsimp/module-info.java appsrc/appstart/appstart/mymodappdemo/MyModAppDemo.java"
+		]
+	}
+}
