@@ -5,10 +5,10 @@ class PBDemo {
 	public static void main(String[] args) {
 
 		try {
-			ProcessBuilder proc = new ProcessBuilder("gedit", "testfile");
+			ProcessBuilder proc = new ProcessBuilder("Notepad", "testfile");
 			proc.start();
 		} catch (Exception e) {
-			System.out.println("Error executing gedit.");
+			System.out.println("Error executing Notepad.");
 		}
 
 		// Keep terminal open
